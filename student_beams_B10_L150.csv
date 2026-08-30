@@ -1,0 +1,16 @@
+beam_id,b_mm,H_web_mm,weight_g,strength_N,failure_note
+1,7.0,16.0,27.4,829.4,Complete vertical fracture across the center of the beam
+2,7.0,10.5,30.1,948.8,Complete vertical fracture across the center of the beam
+3,4.85,14.4,21.7,724.1,"Vertical fracture on the bottom of the beam, but not completely through the beam"
+4,3.25,15.1,16.2,588.8,"Vertical fracture on the bottom of the beam, but not completely through the beam"
+5,3.55,7.5,26.8,937.4,Complete vertical fracture across the center of the beam
+6,4.6,13.1,22.3,759.0,Complete vertical fracture across the center of the beam
+7,3.7,11.1,22.5,741.3,Complete vertical fracture across the center of the beam. Small middle part of the top flange also fractured and separated from the web
+8,6.4,10.3,29.2,882.5,Complete vertical fracture across the center of the beam
+9,1.75,15.8,10.0,314.4,Twisted off the test stand and flipped over
+10,5.95,6.3,31.7,918.4,Complete vertical fracture across the center of the beam
+11,4.0,13.5,20.2,706.8,"Vertical fracture on the bottom of the beam, but not completely through the beam"
+12,1.5,5.0,28.1,790.0,Separation of the top flange and the web. No vertical fracture
+13,4.2,15.6,17.8,582.6,"Vertical fracture on the bottom of the beam, but not completely through the beam"
+14,1.4,10.4,18.7,654.6,Separation of the top flange and the web. No vertical fracture
+15,1.0,12.5,,475.0,Separation of the top flange from the web. Interface between the bottom flange and web also fractured horizontally about 80% through the beam.
